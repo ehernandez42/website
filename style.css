@@ -1,0 +1,13 @@
+/*Resume Template css*/
+
+.info-section {
+    display: grid;
+    grid-column: 1;
+    grid-row: 2 / 4;
+}
+
+.work-section{
+    display: grid;
+    grid-column: 2 / 4;
+    grid-row: 1 / 4;
+}
